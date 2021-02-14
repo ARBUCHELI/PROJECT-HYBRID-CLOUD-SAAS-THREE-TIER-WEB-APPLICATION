@@ -99,3 +99,7 @@ Please create and test the blueprint. You may be able to adapt your blueprint fr
 scratch; either approach is acceptable.
 
 Be sure to save your blueprint to your Udacity workspace before leaving a lab session!
+
+# Adaptation as a repository: Andrés R. Bucheli.
+
+
