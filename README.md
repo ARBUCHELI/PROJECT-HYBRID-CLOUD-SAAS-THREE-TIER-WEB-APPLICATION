@@ -100,6 +100,7 @@ scratch; either approach is acceptable.
 
 Be sure to save your blueprint to your Udacity workspace before leaving a lab session!
 
+![](https://raw.githubusercontent.com/ARBUCHELI/PROJECT-HYBRID-CLOUD-SAAS-THREE-TIER-WEB-APPLICATION/main/blueprint.jpg)
 
 # Adaptation as a repository: Andrés R. Bucheli.
 
