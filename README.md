@@ -100,6 +100,7 @@ scratch; either approach is acceptable.
 
 Be sure to save your blueprint to your Udacity workspace before leaving a lab session!
 
+
 # Adaptation as a repository: Andrés R. Bucheli.
 
 
